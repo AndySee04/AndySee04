@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndySee04
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning Java
+- 👀 I’m passionate about coding and building new software and websites!
+- 🌱 I’m currently learning Java, HTML and JavaScript
 
 <!---
 AndySee04/AndySee04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
