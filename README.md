@@ -2,16 +2,15 @@
     <img src="assets/evernight dance.gif" alt="Banner" width="30%">
 </p>
 
-<h1 align="center">Hi, I'm Andy See</h1>
-<!---
-AndySee04/AndySee04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I’m passionate about coding and building interesting software and websites! I am currently pursuing my Software Engineering degree in UTAR.
+<h1 align="center">Hi, I'm Andy See!</h1>
 
-## Skills 💪
+<p align="center">
+    I’m passionate about coding and building interesting software and websites! <br>
+    Currently pursuing my Software Engineering degree in UTAR.
+</p>
 
-<p>
+<h2 align="center">Language and Tools</h2>
+<p align="center">
 
 <!-- javascript -->
 <img width ='80px' height='25px' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E' />
@@ -68,6 +67,4 @@ I’m passionate about coding and building interesting software and websites! I 
 <img width ='80px' height='25px' src='https://img.shields.io/badge/Wondershare%20Filmora-00B7FF?style=for-the-badge&amp;logo=wondershare&amp;logoColor=white' />
 
 </p>
- 
-![Profile View Counter](https://komarev.com/ghpvc/?username=AndySee04)
 
