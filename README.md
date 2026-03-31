@@ -1,4 +1,8 @@
-# Hi, I’m Andy See
+<p align="center">
+    <img src="assets/bronya thinking.gif" alt="Banner" width="50%">
+</p>
+
+<h1 align="center">Hi, I'm Andy See</h1>
 <!---
 AndySee04/AndySee04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
