@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/bronya thinking.gif" alt="Banner" width="50%">
+    <img src="assets/evernight dance.gif" alt="Banner" width="30%">
 </p>
 
 <h1 align="center">Hi, I'm Andy See</h1>
