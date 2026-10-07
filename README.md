@@ -2,11 +2,11 @@
     <img src="assets/evernight dance.gif" alt="Banner" width="30%">
 </p>
 
-<h1 align="center">Hi, I'm Andy See!</h1>
+<h1 align="center">Hi, I'm Andy See ( •̀ ω •́ )</h1>
 
 <p align="center">
     I’m passionate about coding and building interesting software and websites! <br>
-    Currently pursuing my Software Engineering degree in UTAR.
+    Just completed my Software Engineering degree in UTAR! 
 </p>
 
 <h2 align="center">Language and Tools</h2>
